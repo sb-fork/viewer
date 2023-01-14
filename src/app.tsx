@@ -41,7 +41,7 @@ const App = () => (
               <>
                 <SplashScreen visible={!bootstrapped} />
                 <DragDropHandler />
-                <WindowTitleManager appName='Skybrush Viewer' />
+                <WindowTitleManager appName='FlyAi Viewer' />
                 <CssBaseline />
                 <AppHotkeys>
                   <MainTopLevelView />

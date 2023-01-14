@@ -193,7 +193,7 @@ const SidebarDrawer = ({
       </List>
 
       <Box sx={styles.footer}>
-        <a href='https://skybrush.io'>
+        <a href='https://flyai.com'>
           <SkybrushLogo />
         </a>
       </Box>

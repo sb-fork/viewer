@@ -9,7 +9,7 @@ const {
 const helpSubmenu = [
   openUrlMenuItem({
     label: 'Website',
-    url: 'https://skybrush.io',
+    url: 'https://flyai.com',
   }),
 ];
 
@@ -48,7 +48,7 @@ if (!is.macos) {
   helpSubmenu.push(
     { type: 'separator' },
     aboutMenuItem({
-      copyright: 'Copyright © CollMot Robotics',
+      copyright: 'Copyright © FlyAi',
     })
   );
 }
