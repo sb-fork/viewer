@@ -45,7 +45,7 @@ async function run(filenames, options) {
       debug: options.debug,
       rootDir: __dirname,
       showMenuBar: false,
-      title: 'Skybrush Viewer',
+      title: 'FlyAi Viewer',
       titleBarStyle: 'hiddenInset',
       webPreferences: {
         sandbox: false  // because we need Node.js modules from the preloader
